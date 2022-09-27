@@ -1,3 +1,11 @@
+:root {
+  --primary-color: #7C1FBF;
+  --secondary-color: #7C20BF;
+  --accent-color: #470A73;
+  --neutral-color: #FFFFFF;
+}
+
+
 /* @Keyframe syntax */
 .className{
     animation: animationName 2s ease-out forwards;
